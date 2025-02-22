@@ -2,7 +2,7 @@
 
 This project combines multiple CSV files into a single CSV file.
 
-## Usage
+## Usage Now
 
 1. Place all CSV files to be combined in the `input` directory.
 2. Run the script `combine_csv.py`.
